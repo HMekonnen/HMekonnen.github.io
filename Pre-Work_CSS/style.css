@@ -1,0 +1,33 @@
+
+ 
+           
+             body{ background-color: #aa9b9bd8; margin: 1%; padding: 1%;}
+             
+             p{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;font-weight: bold; text-decoration: underline;}
+            
+            #name{color: rgba(19, 18, 14, 0.932);text-transform: uppercase;text-align: center;position: static;font-size: xxx-large;}
+           
+            span{font-size: 48pt;}
+          
+            #quotes{color:rgb(3, 27, 21); text-align: center;}
+
+            .links{color: rgb(69, 57, 184);text-align: center;box-sizing:border-box;text-decoration-line: underline;}
+           
+            #welcomeBanner{color: rgb(8, 8, 8);font-weight: bold;text-align: center;}
+            
+           
+            #heranBio{color: rgb(31, 33, 36);text-align: center;font: weight 8px;}
+           
+            #heransSubHeaders{color:rgb(67, 95, 122); text-align: center;font-size: large; font-weight: bold;}
+           
+            .images{display: block;width: 250;position: fixed;}
+            
+
+            .favList{color: rgb(92, 136, 34); list-style-position: inside; flex-direction: column;margin-left: 45%;font-weight: bold;}
+
+            .basicForm{border-style: solid;border-color: rgb(121, 95, 95); border-width: thick; width: 30%;background-color: rgb(217, 240, 240);}
+input[type=button]:hover{border: solid; background-color: rgb(107, 194, 157);}
+input[type=text]:focus{background-color: rgb(107, 194, 157);color: black;transition: 2s; width: 40%;-webkit-transition:width .35s ease-in-out;}
+
+    
+          .basicTable{text-align: center;font-size: large;background-color: rgb(221, 233, 221); width: 30%;table-layout: fixed;}
